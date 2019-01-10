@@ -1,23 +1,19 @@
-# ARK Elixir - Crypto
+# PHANTOM Elixir - Crypto
 
-<p align="center">
-    <img src="https://github.com/ArkEcosystem/elixir-crypto/blob/master/banner.png" />
-</p>
+> A simple Elixir Cryptography Implementation for the PHANTOM Blockchain.
 
-> A simple Elixir Cryptography Implementation for the ARK Blockchain.
-
-[![Build Status](https://badgen.now.sh/circleci/github/ArkEcosystem/elixir-crypto)](https://circleci.com/gh/ArkEcosystem/elixir-crypto)
-[![Codecov](https://badgen.now.sh/codecov/c/github/arkecosystem/elixir-crypto)](https://codecov.io/gh/arkecosystem/elixir-crypto)
-[![Latest Version](https://badgen.now.sh/github/release/ArkEcosystem/elixir-crypto)](https://github.com/ArkEcosystem/elixir-crypto/releases)
+[![Build Status](https://badgen.now.sh/circleci/github/PhantomChain/elixir-crypto)](https://circleci.com/gh/PhantomChain/elixir-crypto)
+[![Codecov](https://badgen.now.sh/codecov/c/github/phantomchain/elixir-crypto)](https://codecov.io/gh/phantomchain/elixir-crypto)
+[![Latest Version](https://badgen.now.sh/github/release/PhantomChain/elixir-crypto)](https://github.com/PhantomChain/elixir-crypto/releases)
 [![License: MIT](https://badgen.now.sh/badge/license/MIT/green)](https://opensource.org/licenses/MIT)
 
 ## Documentation
 
-You can find installation instructions and detailed instructions on how to use this package at the [dedicated documentation site](https://docs.ark.io/sdk/cryptography/elixir.html).
+You can find installation instructions and detailed instructions on how to use this package at the [dedicated documentation site](https://docs.phantom.org/sdk/cryptography/elixir.html).
 
 ## Security
 
-If you discover a security vulnerability within this package, please send an e-mail to security@ark.io. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within this package, please send an e-mail to security@phantom.org. All security vulnerabilities will be promptly addressed.
 
 ## Credits
 
@@ -26,4 +22,4 @@ If you discover a security vulnerability within this package, please send an e-m
 
 ## License
 
-[MIT](LICENSE) © [ArkEcosystem](https://ark.io)
+[MIT](LICENSE) © [PhantomChain](https://phantom.org)
