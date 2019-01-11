@@ -1,6 +1,6 @@
 ExUnit.start(exclude: [:skip])
 
-defmodule ArkEcosystem.Test.TestHelper do
+defmodule PhantomChain.Test.TestHelper do
   @fixtures_path "test/fixtures/"
 
   def read_transaction_fixture(transaction_type, name) when is_bitstring(transaction_type) do

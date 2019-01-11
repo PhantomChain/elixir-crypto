@@ -1,17 +1,17 @@
-defmodule ArkEcosystem.Crypto.MixProject do
+defmodule PhantomChain.Crypto.MixProject do
   use Mix.Project
 
   def project do
     [
-      app: :arkecosystem_crypto,
+      app: :phantomchain_crypto,
       version: "0.1.1",
       elixir: "~> 1.6",
       start_permanent: Mix.env() == :prod,
       description: description(),
       package: package(),
       deps: deps(),
-      name: "ArkEcosystem Elixir Crypto",
-      source_url: "https://github.com/ArkEcosystem/elixir-crypto",
+      name: "PhantomChain Elixir Crypto",
+      source_url: "https://github.com/PhantomChain/elixir-crypto",
       test_coverage: [tool: ExCoveralls]
     ]
   end
@@ -39,15 +39,15 @@ defmodule ArkEcosystem.Crypto.MixProject do
   end
 
   defp description() do
-    "A simple Cryptography Implementation in Elixir for the Ark Blockchain."
+    "A simple Cryptography Implementation in Elixir for the PHANTOM Blockchain."
   end
 
   defp package() do
     [
-      maintainers: ["Brian Faust", "ArkEcosystem"],
+      maintainers: ["Brian Faust", "PhantomChain"],
       files: ["config", "lib", "mix.exs", "README*", "LICENSE*"],
       licenses: ["MIT"],
-      links: %{"GitHub" => "https://github.com/ArkEcosystem/elixir-crypto"}
+      links: %{"GitHub" => "https://github.com/PhantomChain/elixir-crypto"}
     ]
   end
 end
